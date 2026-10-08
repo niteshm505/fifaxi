@@ -1,0 +1,308 @@
+Privacy Policy — FIFA Online Championship
+Effective Date: 8 October 2026
+Last Updated: 8 October 2026
+This Privacy Policy explains how [App/Tournament Name] (“we”, “us”, “our”) collects, uses, stores, protects, and shares information when you use our mobile application, website, tournament platform, and related services (collectively, the “Service”).
+By using the Service, you agree to the practices described in this Privacy Policy.
+Important: Replace the bracketed placeholders with your actual legal/business details before publishing. Because this app handles payments and potentially sensitive KYC documents, have the final policy reviewed for the jurisdictions in which you operate.
+1. Information We Collect
+We collect only information reasonably necessary to provide and secure the tournament service.
+A. Account Information
+When you register using Google or mobile OTP, we may collect:
+Full name
+Email address
+Mobile phone number
+Profile photo
+Firebase user ID
+Authentication provider information
+Account creation and login timestamps
+We do not collect or store your Google password.
+B. Profile Information
+You may be required to provide:
+Date of birth
+Country
+State
+Pincode
+Profile information required for tournament eligibility
+We use your pincode for tournament matchmaking and related tournament operations.
+We do not require your precise GPS location for matchmaking unless separately disclosed and permission is obtained.
+C. KYC Information
+Where required by applicable law or tournament rules, we may collect identity-verification information, such as:
+PAN
+Aadhaar
+Passport
+Driving Licence
+Voter ID
+Other permitted identity documents
+Document images/files
+Verification status
+KYC information is used solely for identity verification, eligibility, fraud prevention, legal compliance, and tournament administration.
+KYC documents are sensitive information and are not publicly displayed to other participants.
+D. Tournament Information
+When you participate in a tournament, we may collect:
+Tournament entry ID
+Serial number
+Participant ID
+Match ID
+Opponent/participant information required to conduct the match
+Round information
+Match schedules
+Scores
+Results
+Match history
+Tournament progression
+Dispute information
+E. Payment Information
+Payments may be processed by third-party payment providers.
+We may receive:
+Payment/order ID
+Transaction ID
+Amount
+Currency
+Payment status
+Refund status
+Transaction timestamps
+We generally do not store your complete debit-card, credit-card, UPI PIN, CVV, or banking credentials on our servers.
+Payment information is processed by the applicable payment provider according to its privacy policy and security practices.
+F. Match Evidence
+If required by tournament rules, you may upload:
+Match screenshots
+Match result evidence
+Other information submitted to resolve a dispute
+This information may be reviewed by authorized tournament administrators.
+G. Device and Technical Information
+We may automatically collect limited technical information, including:
+Device model
+Android version
+App version
+IP address
+Approximate network information
+Crash information
+Diagnostic information
+Firebase installation/instance identifiers
+Device notification token
+Basic security and fraud-prevention information
+We use this information to maintain security, diagnose technical problems, and improve the Service.
+2. How We Use Your Information
+We may use information to:
+Create and manage your account
+Authenticate you using Google or mobile OTP
+Maintain your profile
+Verify identity and KYC
+Process tournament registrations
+Process and verify payments
+Assign unique tournament serial numbers
+Match participants
+Schedule matches
+Manage tournament rounds
+Verify match results
+Handle disputes
+Display tournament progress
+Send tournament notifications
+Prevent fraud, abuse, cheating, and unauthorized access
+Detect duplicate or suspicious accounts
+Provide customer support
+Maintain security
+Improve application performance
+Diagnose crashes and technical problems
+Comply with applicable legal and regulatory obligations
+Enforce our Terms & Conditions and tournament rules
+3. Matchmaking and Pincode Information
+Your pincode may be used to determine suitable tournament opponents.
+Our matchmaking system may prioritize:
+Participants from the same pincode
+Participants from geographically nearby pincodes
+Other eligible participants where a nearby opponent is unavailable
+We use pincode/geographic reference data for matchmaking.
+We do not publicly display your exact residential address to other participants.
+Only information necessary to operate the tournament may be shown to an opponent, such as a tournament serial number, participant identifier, match information, or other information specifically defined in the tournament rules.
+4. Firebase Services
+We may use Google Firebase services, including:
+Firebase Authentication
+Cloud Firestore
+Firebase Cloud Storage
+Firebase Cloud Functions
+Firebase Cloud Messaging
+Firebase Analytics
+Firebase Crashlytics
+Firebase App Check
+These services may process information necessary to authenticate users, operate the database, store files, send notifications, analyze application performance, detect crashes, and protect the application.
+Firebase services are provided by Google and are subject to Google's applicable privacy and security practices.
+5. Google Sign-In
+If you choose Continue with Google, authentication is handled using Google's authentication services and Firebase Authentication.
+We may receive information such as:
+Name
+Email address
+Profile photo
+Google account identifier
+We do not receive or store your Google account password.
+6. Mobile OTP Authentication
+If you choose mobile authentication, your mobile number is used to send and verify an authentication OTP through Firebase Phone Authentication or our configured authentication provider.
+We use your number to:
+Authenticate your account
+Secure your account
+Prevent unauthorized access
+Send essential tournament-related communications where permitted
+7. Payment Providers
+Tournament payments may be processed by providers such as Razorpay, Cashfree, PhonePe, or another payment provider configured for the Service.
+The actual provider used may change.
+Payment providers may process information necessary to:
+Create payment orders
+Authenticate transactions
+Complete payments
+Prevent fraud
+Process refunds
+Maintain transaction records
+You should review the applicable payment provider's privacy policy before completing a transaction.
+8. Notifications
+With your permission where required, we may send:
+Match reminders
+Opponent assignments
+Match schedule updates
+Result notifications
+KYC notifications
+Payment confirmations
+Tournament announcements
+Security notifications
+You can control notification permissions through your device settings, although disabling certain notifications may prevent you from receiving important tournament updates.
+9. Analytics and Crash Reporting
+We may use analytics and crash-reporting services to understand:
+Application crashes
+Performance problems
+Feature usage
+Technical errors
+Device compatibility
+Analytics information is used to improve reliability and user experience.
+10. How We Share Information
+We do not sell your personal information.
+We may share information only when reasonably necessary with:
+Service Providers
+For example:
+Firebase/Google
+Payment processors
+Cloud hosting providers
+Authentication providers
+Notification providers
+Security and fraud-prevention providers
+Customer-support providers
+Tournament Administrators
+Authorized administrators may access information necessary to:
+Verify KYC
+Manage registrations
+Conduct matches
+Resolve disputes
+Manage tournament results
+Prevent fraud or cheating
+Legal and Regulatory Authorities
+We may disclose information when reasonably necessary to:
+Comply with applicable law
+Respond to lawful requests
+Prevent fraud
+Investigate abuse
+Protect users
+Protect our rights or property
+Enforce our terms
+We may also disclose information in connection with a merger, acquisition, restructuring, or sale of relevant business assets, subject to applicable law.
+11. Information Visible to Other Participants
+Because this is a competitive tournament, some information may be visible to other participants.
+Depending on the tournament configuration, this may include:
+Tournament serial number
+Participant display name
+Profile photo
+Match status
+Match result
+Round/progression
+Public leaderboard information
+We will not intentionally expose:
+KYC documents
+Aadhaar/PAN details
+OTPs
+Passwords
+Payment credentials
+Private phone numbers
+Private email addresses
+Exact residential addresses
+unless disclosure is legally required or specifically authorized.
+12. Data Security
+We use reasonable technical and organizational measures to protect personal information, including where appropriate:
+Firebase Authentication
+Firestore security rules
+Role-based access control
+Server-side authorization
+Private cloud storage
+HTTPS/TLS
+Secure payment verification
+Database transactions
+Audit logs
+Access restrictions
+Firebase App Check
+Monitoring and security controls
+However, no internet-based service can guarantee absolute security.
+You are responsible for protecting access to your device and authentication credentials.
+13. Data Retention
+We retain information only for as long as reasonably necessary for:
+Providing the Service
+Maintaining tournament records
+Payment reconciliation
+Fraud prevention
+Dispute resolution
+Legal and regulatory compliance
+Tax/accounting requirements
+Security and audit purposes
+KYC and financial records may need to be retained for longer periods where required by applicable law.
+When information is no longer required, we may delete, anonymize, or securely dispose of it in accordance with applicable requirements.
+14. Account and Data Deletion
+You may request deletion of your account and personal information by contacting us at:
+Email: [privacy@yourdomain.com]
+Your request should include enough information for us to verify that you control the account.
+Some information may need to be retained where required for:
+Legal compliance
+Financial records
+Fraud prevention
+Active disputes
+Tournament integrity
+Regulatory requirements
+Deleting your account may also result in loss of access to your tournament profile and other account-related services.
+15. Children's Privacy
+The Service is not intended for individuals who are below the minimum age required to participate in the tournament under applicable law and tournament rules.
+We do not knowingly permit children who are not legally eligible to participate in paid tournaments.
+If we discover that we have collected information from an ineligible child, we will take reasonable steps to delete it where legally appropriate.
+16. Fraud, Security and Fair Play
+We may process information to detect:
+Multiple-account abuse
+Payment fraud
+Identity fraud
+Match manipulation
+Collusion
+Cheating
+Unauthorized access
+Suspicious activity
+This may include account, device, authentication, payment, tournament, and match information.
+17. International Data Processing
+Some service providers we use may process or store information on servers located outside India.
+Where this occurs, we will take reasonable steps required by applicable law to protect personal information.
+18. Third-Party Services
+The application may contain integrations or links to third-party services.
+Examples may include:
+Google
+Firebase
+Payment providers
+Cloud storage providers
+Notification services
+Third-party services have their own privacy policies and terms. We are not responsible for the privacy practices of independent third parties.
+19. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time.
+When we make significant changes, we may:
+Update the “Last Updated” date
+Display an in-app notice
+Provide additional notification where required
+You should periodically review this Privacy Policy.
+20. Contact Us
+For privacy questions, data requests, complaints, or account deletion requests, contact:
+[Legal/Company Name]
+App/Tournament: [FIFA Online Championship]
+Email: [privacy@yourdomain.com]
+Address: [Registered Business Address]
+Country: India
+For privacy-related complaints or grievances:
+Grievance Officer: [Name]
+Email: [grievance@yourdomain.com]
